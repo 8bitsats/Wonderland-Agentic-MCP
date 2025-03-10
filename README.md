@@ -1,7 +1,3 @@
-Below is a revised version of the previous Solana trading agent article, updated to use the Solana Tracker API for risk scores and rug-check data instead of social media analysis. The structure remains consistent with the original, but the focus shifts to evaluating token safety and risk using the provided Solana Tracker API data, including risk scores and descriptions. I've rephrased the content to fit this new context while keeping it engaging and technically accurate.
-
----
-
 ### Create an AI-Powered Solana Trading Agent with Anthropic’s MCP — Part I
 By 8 Bit · 
 
