@@ -3,7 +3,7 @@ Below is a revised version of the previous Solana trading agent article, updated
 ---
 
 ### Create an AI-Powered Solana Trading Agent with Anthropic’s MCP — Part I
-By [Your Name] · Published in The Low End Disruptor · 10 min read · 3 days ago
+By 8 Bit · 
 
 #### Welcome to the Tutorial Series
 In this three-part guide, we’ll leverage Anthropic’s Model Context Protocol (MCP) to build an AI agent that trades tokens on the Solana blockchain, guided by real-time market data and risk assessments. Here’s the roadmap:  
